@@ -21,7 +21,7 @@ author: Upcycle Interiors
 
 navbar-links:
   Home: "https://upcycleinteriors.com"
-  About: "aboutme"
+  About: "about"
   Shop:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
