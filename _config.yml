@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://upcycleinteriors.com"
   About: "about"
   Shop:
-    - Coming Soon
+    - Coming Soon:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   DIY: "https://upcyclethat.com"
