@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Launch of Upcycle Interiors
+title: Welcome to Upcycle Interiors
 subtitle: Welcome to Upcycle Interiors - Where Old Meets Gold!
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
