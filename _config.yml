@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://upcycleinteriors.com"
   About: "about"
   Shop:
-    - Meta Marketplace: https://www.facebook.com/profile.php?id=61550682632188
+    - Marketplace: https://www.facebook.com/profile.php?id=61550682632188
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   DIY: "https://upcyclethat.com"
